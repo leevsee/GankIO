@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cover"
+            android:icon="@drawable/ic_menu_home"
+            android:title="首页"/>
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/ic_menu_android"
+            android:title="Android"/>
+        <item
+            android:id="@+id/nav_ios"
+            android:icon="@drawable/ic_menu_ios"
+            android:title="IOS"/>
+        <item
+            android:id="@+id/nav_frontEnd"
+            android:icon="@drawable/ic_menu_frontEnd"
+            android:title="前端"/>
+        <item
+            android:id="@+id/nav_expand"
+            android:icon="@drawable/ic_menu_expand"
+            android:title="拓展资源"/>
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_video"
+            android:title="休息视频"/>
+        <item
+            android:id="@+id/nav_girls"
+            android:icon="@drawable/ic_menu_girls"
+            android:title="福利"/>
+    </group>
+
+    <item android:title="其他">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="分享"/>
+            <item
+                android:id="@+id/nav_more"
+                android:icon="@drawable/ic_menu_more"
+                android:title="更多"/>
+        </menu>
+    </item>
+
+</menu>

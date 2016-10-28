@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="ic_menu_home" type="drawable">@drawable/ic_home</item>
+    <item name="ic_menu_android" type="drawable">@drawable/ic_android</item>
+    <item name="ic_menu_ios" type="drawable">@drawable/ic_ip</item>
+    <item name="ic_menu_frontEnd" type="drawable">@drawable/ic_front_end</item>
+    <item name="ic_menu_expand" type="drawable">@drawable/ic_expand</item>
+    <item name="ic_menu_video" type="drawable">@drawable/ic_video</item>
+    <item name="ic_menu_girls" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_author" type="drawable">@drawable/ic_author</item>
+    <item name="ic_menu_more" type="drawable">@drawable/ic_more</item>
+
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+</resources>

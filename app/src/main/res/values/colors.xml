@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sideNavBar">#1cb9ff</color>
+    <color name="color1">#FF3030</color>
+    <color name="color2">#EEC900</color>
+    <color name="color3">#8968CD</color>
+    <color name="color4">#1E90FF</color>
+</resources>
