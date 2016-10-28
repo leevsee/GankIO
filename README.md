@@ -12,6 +12,6 @@
 其他：butterknife，CardView，RecyclerView，NavigationView，Snackbar，frgament
 
 
-![image](http://7xz8pr.com1.z1.glb.clouddn.com/GankIO.gif)
+![image](http://7xz8pr.com1.z1.glb.clouddn.com/gank.gif)
 
 
