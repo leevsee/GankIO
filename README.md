@@ -1,9 +1,17 @@
 
 一款每日获得安卓干货文章的app，数据来源于：gank.io
 
-Material Design,  RxJava & Retrofit & OKHttp，CardView，RecyclerView，下拉刷新，上拉自动加载，NavigationView侧边栏，Snackbar错误提示。
+架构：      MVC
+
+图片加载：Picasso
+
+网络请求：RxJava & Retrofit＋okhttp
+
+界面：遵循Google Meterial 设计风格
+
+其他：butterknife，CardView，RecyclerView，NavigationView，Snackbar，frgament
 
 
-<img src="http://7xz8pr.com1.z1.glb.clouddn.com/GankIO.gif"/>
+![image](http://7xz8pr.com1.z1.glb.clouddn.com/GankIO.gif)
 
 
